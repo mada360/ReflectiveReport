@@ -16,6 +16,6 @@ for /L %%i in (1,1,%Filesx%) do pandoc -t latex -f markdown !list[%%i]! -o !outp
 
 pdflatex.exe Report.tex
 
-Del /Q *.aux *.log *.gz README.tex
+Del /Q *.aux *.log *.gz README.tex reflection.tex
 
 Report.pdf

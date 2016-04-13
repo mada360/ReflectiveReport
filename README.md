@@ -25,7 +25,7 @@ Once installed using the following command will install pandoc and miktex.
 ```
 C:\> choco install pandocpdf
 ```
-Optionally running the following will also install Temaker
+Optionally running the following will also install Texmaker
 ```
 C:\> choco install texmaker
 ```
