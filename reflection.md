@@ -35,7 +35,7 @@ Everyone has their own skills and abilities and it wouldn't be feasible to expec
 
 I've learned that with lots of different aspects and areas in the field of IT and computing it isn't feasible to be an expert in all of them, however knowing the basics for each will be of great help; with a basic understanding of a system it's beneficial to know what is expected to be entered in and receive by output.
 
-<<<<<<< HEAD
+
 -------------------------------------------------------
 
 # Project Mobilise
@@ -61,7 +61,7 @@ It was clear that this task was too much to be handled by one person alone and t
 
 
 #### How can it be applied in the future? How is it similar to/different from others? What next? (outcome) What have I learned?
-=======
+
 #### What? (description)
 
 What happened?
@@ -82,4 +82,3 @@ Don't just describe – explore and explain what happened.
 Be honest – it's ok to admit to making mistakes as well as success. But you should also show how you understand why things happen and what you are going to do to improve.
 Be selective – you don’t have to write about everything that happened, just key events or ideas.
 Look to the future – reflect on what happened in the past and how it will have an impact on future ideas or activities.
->>>>>>> refs/remotes/origin/master
