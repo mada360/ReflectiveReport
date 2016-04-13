@@ -1,5 +1,5 @@
 # Introduction
-For my placement I worked as an ITS Intern within Bard Ltd, developing innovative medical devices and a global leader in the medical device industry for of people around the world. Working as an end user support and service desk member. Every day I deal with a wide variety of problems and tasks from basic issues such as locked accounts to issues with the Windows OS and Microsoft office. Each day I perform checks on reports run using J.D. Edwards to ensure they have not produced errors and that they have run successfully.
+For my placement I worked as an ITS Intern within Bard Ltd, a company that develops innovative medical devices and is a global leader in the medical device industry for people around the world. Working as an end user support and service desk member. Every day I deal with a wide variety of problems and tasks from basic issues such as locked accounts to issues with the Windows OS and Microsoft office. Each day I perform checks on reports run using J.D. Edwards to ensure they have not produced errors and that they have run successfully.
 
 # Disaster Data Recovery Training
 
@@ -14,7 +14,7 @@ During the two days I shadowed several members of the team to observe each role 
 There were many steps involved with most being dependent on several other aspects. The initial step involved was simply a matter of loading the tapes to begin the data copy a process that took a while but allowed time for other to begin spinning up servers and the virtual machines that run upon them.
 As with most things in IT this did not go smoothly with several unforeseen issues occurring, first and foremost was with the contract with IBM where the external broadband connection within the contract had lapsed resulting in no external internet access which was required to connect to Crawley site.
 
-There were also issues with configuring the virtual machines as they failed to detect the hardware support for virtulisation and required some research and applying a work around found by the server architect. There were also several issues with restoring some data to the server once it had been started, however this was not critical data and was not seen as immediate issue.
+There were also issues with configuring the virtual machines as they failed to detect the hardware support for virtualisation and required some research and applying a work around found by the server architect. There were also several issues with restoring some data to the server once it had been started, however this was not critical data and was not seen as immediate issue.
 At the end of the first day after starting at around 9am and calling it a day at just past 6pm all critical systems were back up and running with some extra systems started and most data restored at which point it was decided it was time to head off and pick up where we left off the following day.
 Under a real situation this would not have been the situation however and the team would have worked through the night to fully restore the system. In the evening we went for a meal as a team and had time to talk and relax before the next day, it was especially nice for me to be able to talk to members of the team who I often would have not get a chance such as with someone who works from home usually.
 
@@ -33,8 +33,35 @@ Everyone has their own skills and abilities and it wouldn't be feasible to expec
 
 #### How can it be applied in the future? How is it similar to/different from others? What next? (outcome) What have I learned?
 
-I've learned that with lots of different aspects and areas in the field of IT and computing it isn't feasible to be an expert in all of them, however knowing the basics for each will of great help; with a basic understanding of a system it's beneficial to know what is expected to be entered in and receive by output.
+I've learned that with lots of different aspects and areas in the field of IT and computing it isn't feasible to be an expert in all of them, however knowing the basics for each will be of great help; with a basic understanding of a system it's beneficial to know what is expected to be entered in and receive by output.
 
+<<<<<<< HEAD
+-------------------------------------------------------
+
+# Project Mobilise
+##### Phone upgrade and carrier porting
+
+#### What? (description) #### What happened? Who was involved?
+
+The scheme *Project Mobilise* was brought in to save money for the company, originally with Vodafone the usage of most users was regularly exceeding the allowance in data and minutes costing in some cases thousands for a handful for of users in extra fees. Many users travel abroad regularly often out of the office for three weeks in a month resulting in extra fees from usage abroad. This resulted in the finance department being prompted into finding better deals either with Vodafone or a competitor; after approaching multiple providers it was decided to change over to EE as they provided the best deals and would allow the company to combine it's abroad phone contracts in line with EE or a sisters company.
+
+With over 200 users within the scope of Bard ltd and nearly an extra 100 to be distributed to the recently acquired Rochester medical a couple of months later a big task was ahead. David Ring my colleague and Ulrika Cooper from finance produced the lists of users and mobile numbers of the users that would need porting over, however due to holiday and sickness both were unreachable the week prior to the change date at the end of the contract with Vodafone. Alex Rowe another one of my colleagues who mainly deals with infrastructure was put forward to take on the large task having to pick up where the others left off and fill in the gaps that had yet to be filled.
+
+Alex not having expected this extra workload and having his own work to also contend with dealing with all of the issues, contacting users to provide details and to obtain dates suitable for transfers and if staff would be able to collect their phone would need it to be dispatched. The time leading up to change consisted of multiple calls daily from different users requesting confirmation and more information on the change process; to assist I typed up documentation dealing with the porting process and how to backup and restore an iPhone to transfer the data and keep all contact information.
+
+Most members of staff work remotely and abroad so it was difficult to obtain a complete list of people that would be in need of having their device sent to their home address and which day would be suitable for the dispatch, luckily with next day delivery if posted out before 4pm this provided us with the ability to post out the devices a day or two prior to the change date and every member received their phone in time. Several of us packaged and labeled the devices ready for posting resulting in a task that would have taken a long time, was completed in under an hour.
+
+On the day of porting many users experienced lack of service from either their Vodafone device or their EE devices and for much longer than the stated hour from EE, this caused a lot of users to contact the help desk, unfortunately on contacting EE they explained that Vodafone had yet to release the numbers causing the delay. Many users accepted this was an issue and understood they would need to continue performing the steps I had outlined and most within an hour would regain service.
+
+#### So what? (interpretation)
+
+Unexpected issues occur and people can be away during crucial times and so it is always a good idea to anticipate issues and plan on how to deal with them. In the instance of the phone change over Alex with the help of others and myself were able to execute the porting with only technical issues from the providers causing delays. That being said lack or communication a knowledge sharing did cause issues while better exchange of information may have mitigated some issues in obtaining a complete list of users.
+
+It was clear that this task was too much to be handled by one person alone and the documentation I had created was used company wide to assist users and helped to reduce the service desk calls and help answer any questions users may have had allowing myself and my colleagues to better users our time handling work we had to do and assisting with anyone having any issues. I expect unforeseen circumstances are a common part of any work environment, by stepping up and overcoming these issues with others however will result in less stress and a smoother completion of the task reducing the risk of missing deadlines and causing issues.
+
+
+#### How can it be applied in the future? How is it similar to/different from others? What next? (outcome) What have I learned?
+=======
 #### What? (description)
 
 What happened?
@@ -55,3 +82,4 @@ Don't just describe – explore and explain what happened.
 Be honest – it's ok to admit to making mistakes as well as success. But you should also show how you understand why things happen and what you are going to do to improve.
 Be selective – you don’t have to write about everything that happened, just key events or ideas.
 Look to the future – reflect on what happened in the past and how it will have an impact on future ideas or activities.
+>>>>>>> refs/remotes/origin/master
