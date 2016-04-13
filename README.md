@@ -1,4 +1,4 @@
-# ReflectiveReport
+# Report MD to LaTeX
 
 ## LaTeX
 There is one main .tex file called Report.tex; this file is the formatting and outlining for any reports I will be producing, this file includes "reflection.tex" which contains the basic content of the report.
