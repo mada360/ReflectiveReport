@@ -2,6 +2,7 @@
 For my placement I worked as an ITS Intern within Bard Ltd, developing innovative medical devices and a global leader in the medical device industry for of people around the world. Working as an end user support and service desk member. Every day I deal with a wide variety of problems and tasks from basic issues such as locked accounts to issues with the Windows OS and Microsoft office. Each day I perform checks on reports run using J.D. Edwards to ensure they have not produced errors and that they have run successfully.
 
 # Disaster Data Recovery Training
+
 #### What? (description)
 
 Each year the infrastructure team take part in data recovery training at the IBM server site in Greenford, this is for multiple reasons;
@@ -31,6 +32,15 @@ Everyone has their own skills and abilities and it wouldn't be feasible to expec
 
 
 #### How can it be applied in the future? How is it similar to/different from others? What next? (outcome) What have I learned?
+<<<<<<< HEAD
+=======
+
+I've learned that with lots of different aspects and areas in the field of IT and computing it isn't feasible to be an expert in all of them, however knowing the basics for each will of great help; with a basic understanding of a system it's beneficial to know what is expected to be entered in and receive by output
+
+
+
+
+>>>>>>> refs/remotes/origin/Report
 
 I've learned that with lots of different aspects and areas in the field of IT and computing it isn't feasible to be an expert in all of them, however knowing the basics for each will of great help; with a basic understanding of a system it's beneficial to know what is expected to be entered in and receive by output
 
@@ -40,6 +50,10 @@ I've learned that with lots of different aspects and areas in the field of IT an
 
 #### What? (description)
 
+<<<<<<< HEAD
+=======
+#### What? (description)
+>>>>>>> refs/remotes/origin/Report
 What happened?
 Who was involved?
 So what? (interpretation)
