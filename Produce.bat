@@ -12,7 +12,7 @@ set Filesx=%i%
 
 
 rem Display array elements
-for /L %%i in (1,1,%Filesx%) do pandoc -t latex -f markdown !list[%%i]! -o !output[%%i]!.tex
+for /L %%i in (1,1,%Filesx%) do pandoc -t latex -f markdown !list[%%i]! --toc -o !output[%%i]!.tex
 
 pdflatex.exe Report.tex
 
