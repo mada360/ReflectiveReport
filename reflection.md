@@ -2,11 +2,7 @@
 
 For my placement I worked as an ITS Intern within Bard Ltd, a company that is a global leader in its industry for developing innovative medical devices for people around the world. During my year I worked predominantly as an end user support and service desk member.
 
-<<<<<<< HEAD
 Daily I dealt with an array of problems and tasks from basic issues such as locked accounts to issues with the Windows OS and Microsoft Office. I also preformed in-depth checks on reports that were run using J.D Edwards to ensure they had run successfully and had not produced any errors.
-=======
-On a daily basis I dealt with an array of problems and tasks from basic issues such as locked accounts to errors and faults with the Windows OS and Microsoft Office. I also preformed in-depth checks on reports that were run using J.D Edwards to ensure they had run successfully and had not produced any errors.
->>>>>>> origin/master
 
 These daily tasks helped me to realise and appreciate the variety of issues I could face daily and I feel that I learned a lot about what it would be like if I continue onto a career as an end user support and service desk member both the knowledge needed for the jobs and the communication skills required.
 
@@ -32,17 +28,9 @@ Overall the training session taught me that although a basic knowledge of differ
 
 # Project Mobilise -- Phone upgrade and carrier porting
 
-<<<<<<< HEAD
-The scheme *Project Mobilise* was brought in to save money for the company, originally with Vodafone the usage of most users was regularly exceeding the allowance in data and minutes costing in some cases thousands for a handful for of users in extra fees. Many users travel abroad regularly and are often out of the office for three weeks in a month resulting in extra fees from usage abroad. This resulted in the finance department being prompted into finding better deals either with Vodafone or a competitor; after approaching multiple providers it was decided to change over to EE as they provided the best deals and would allow the company to combine its overseas phone contracts in line with EE or a sisters company.
-
-With over 200 users within the scope of Bard ltd and nearly an extra 100 to be distributed to the recently acquired Rochester medical a couple of months later a big task was ahead.  Two of my colleagues produced the lists of users and mobile numbers of the users that would need porting over, however due to holiday and sickness both were unreachable the week prior to the change date. Alex another one of my colleagues who mainly deals with infrastructure was put forward to take on the task having to pick up where the others left off. I felt I had to help.
-=======
-<!-- #### What? (description) #### What happened? Who was involved? -->
-
 The scheme *Project Mobilise* was brought in to save money for the company, originally with Vodafone the usage of most users was regularly exceeding the allowance in data and minutes costing in some cases thousands for a handful for of users in extra fees. Many users travel abroad regularly and are often out of the office for up to three weeks at a time resulting in extra fees from usage abroad. This resulted in the finance department being prompted into finding better deals either with Vodafone or a competitor; after approaching multiple providers it was decided to change over to EE as they provided the best deals and would allow the company to combine its overseas phone contracts in line with EE or a sisters company.
 
 With over 200 users within the scope of Bard ltd and nearly an extra 100 to be distributed to the recently acquired Rochester medical a couple of months later a big task was ahead.  Two of my colleagues produced the lists of users and mobile numbers of the users that would need porting over, however due to holiday and sickness both were unreachable the week prior to the change date. Alex, another one of my colleagues who mainly deals with infrastructure was put forward to take on the large task having to pick up where the others had left off and fill in the gaps that had yet to be filled.
->>>>>>> origin/master
 
 <!--Alex not having expected this extra workload and having his own work to contend with struggled. He was meant to be contacting users to provide details and to obtain dates suitable for transfers as well as checking whether staff would be able to collect their phones or if they would need them dispatching however time constraints made it difficult for him. I decided that I had to do something to help. !-->
 
@@ -66,10 +54,5 @@ After around a week of development a fully functioning version of my application
 
 During my year I have experienced a multitude of new things such as; active directory account management and network software deployment using the Microsoft Deployment Toolkit, I have also assisted in the installation of multiple rack mounted servers for the data expansion initiative being undertaken to improve and expand storage using the latest technology and have witnessed some very talented IT technicians and software specialists, all of whom were very helpful and provided me with useful information and training in their fields of expertise and allowed me to experience roles in networking and security, software production and IT support.
 
-<<<<<<< HEAD
-With my work experience I found myself doing a majority of work different from what I had been undertaking during my first two years of University. Several modules such as *professional and study skills* and *Introduction to requirements analysis* although they didn't have a one-to-one correlation to work, provided a good stepping stone for what I would be facing day to day. I feel that the divergence from a more coding based work flow in different languages and platforms while learning, to one that consisted of a much more varied task set allowed me to expand my knowledge and experience a wider array of the field of IT. I believe the time I have spent at Bard has begun to give me an idea of what direction I would like to go in and has helped me to visualise a career plan for the future.
-=======
-<!-- I enjoyed these aspects of the job role **(List)** whilst I found these aspects **(list)** quite challenging. -->
 
 With my work experience I found myself doing a majority of work rather different from what I had been undertaking during my first two years of University. Several modules such as *professional and study skills* and *Introduction to requirements analysis* although they didn't have a one-to-one correlation to work, provided a good stepping stone for what I would be facing day to day. I feel that the divergence from a more coding based work flow in different languages and platforms while learning, to one that consisted of a much more varied task set allowed me to expand my knowledge and experience a wider array of the field of IT. I believe the time I have spent at Bard has really begun to give me an idea of which direction I would like to go in and has helped me to visualise a career plan for the future.
->>>>>>> origin/master
