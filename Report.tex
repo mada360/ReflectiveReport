@@ -42,24 +42,63 @@
 \usepackage{multicol}
 \usepackage{graphicx}
 \usepackage{titlesec}
+\usepackage{longtable}
+\usepackage{supertabular}
+
+\usepackage{booktabs}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
-%\usepackage[none]{hyphenat}
-\widowpenalty=10000
-\clubpenalty=10000
-\newcommand\sectionbreak{\clearpage}
+
+\usepackage{hyperref}
+
+%References
+\usepackage[
+backend=bibtex,
+style=numeric,
+autocite=footnote,
+citestyle=authoryear 
+]{biblatex}
+\addbibresource{references.bib}
+\usepackage[british]{babel}
+\usepackage{csquotes}
+
+\usepackage{url}
+
+\usepackage{microtype}
+
+
+%	Below are optional commands to adjust the document.
+%----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	Show's overfilled areas.
+%----------------------------------------------------------------------------------------
+%\overfullrule=2cm
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	Stop hyphenation.
+%----------------------------------------------------------------------------------------
+%\widowpenalty=10000
+%\clubpenalty=10000
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	Adds a clear page after each section to start the next on a new page.
+%----------------------------------------------------------------------------------------
+%\newcommand\sectionbreak{\clearpage}
+%----------------------------------------------------------------------------------------
 
 %----------------------------------------------------------------------------------------
 %	The following removes section numbering
 %----------------------------------------------------------------------------------------
-\renewcommand{\thesection}{}
-\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
-\makeatletter
-\def\@seccntformat#1{\csname #1ignore\expandafter\endcsname\csname the#1\endcsname\quad}
-\let\sectionignore\@gobbletwo
-\let\latex@numberline\numberline
-\def\numberline#1{\if\relax#1\relax\else\latex@numberline{#1}\fi}
-\makeatother
+%\renewcommand{\thesection}{}
+%\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+%\makeatletter
+%\def\@seccntformat#1{\csname #1ignore\expandafter\endcsname\csname the#1\endcsname\quad}
+%\let\sectionignore\@gobbletwo
+%\let\latex@numberline\numberline
+%\def\numberline#1{\if\relax#1\relax\else\latex@numberline{#1}\fi}
+%\makeatother
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -76,14 +115,14 @@
 
 \textsc{\LARGE University of Brighton}\\[1.5cm] % Name of your university/college
 \textsc{\Large Computer Science (Games)}\\[0.5cm] % Major heading such as course name
-\textsc{\large Placement Year - CI282}\\[0.5cm] % Minor heading such as course title
+\textsc{\large Individual Project - CI301}\\[0.5cm] % Minor heading such as course title
 
 %----------------------------------------------------------------------------------------
 %	TITLE SECTION
 %----------------------------------------------------------------------------------------
 
 \HRule \\[0.4cm]
-{ \huge \bfseries Reflective Report}\\[0.4cm] % Title of your document
+{ \huge \bfseries Interim Planning and Investigation Report}\\[0.4cm] % Title of your document
 \HRule \\[1.5cm]
 
 %----------------------------------------------------------------------------------------
@@ -100,7 +139,7 @@ Adam \textsc{Worley} % Your name
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
 \emph{Supervisor:} \\
-Dr. Emmanouil \textsc{Panaousis} % Supervisor's Name (Manos)
+Marcus \textsc{Winter} % Supervisor's Name (Manos)
 \end{flushright}
 \end{minipage}\\[3cm]
 
@@ -112,13 +151,15 @@ Dr. Emmanouil \textsc{Panaousis} % Supervisor's Name (Manos)
 %	DATE SECTION
 %----------------------------------------------------------------------------------------
 
-{\large Hand in Date : 09\textsuperscript{th} of May}\\[2cm] % Date, change the \today to a set date if you want to be precise
+{\large Hand in Date : 30\textsuperscript{th} of November 2016}\\[2cm] % Date, change the \today to a set date if you want to be precise
 
 %----------------------------------------------------------------------------------------
 %	LOGO SECTION
 %----------------------------------------------------------------------------------------
 
 \includegraphics[scale=0.60]{Images/BrightonLogo.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
+%\autocite{brightonlogo}
 
 
 %----------------------------------------------------------------------------------------
